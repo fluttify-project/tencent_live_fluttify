@@ -1,6 +1,7 @@
 ![Logo](https://github.com/fluttify-project/fluttify-core-example/blob/develop/other/Logo-Landscape.png?raw=true)
 
 # 腾讯直播 Flutter插件
+[![pub package](https://img.shields.io/pub/v/tencent_live_fluttify.svg)](https://pub.Flutter-io.cn/packages/tencent_live_fluttify)
 
 **专业版为付费插件, 如有需要请联系qq 382146139**
 

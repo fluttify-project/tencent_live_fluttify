@@ -3,11 +3,9 @@
 # 腾讯直播 Flutter插件
 [![pub package](https://img.shields.io/pub/v/tencent_live_fluttify.svg)](https://pub.Flutter-io.cn/packages/tencent_live_fluttify)
 
-**专业版为付费插件, 如有需要请联系qq 382146139**
-
-**专业版为付费插件, 如有需要请联系qq 382146139**
-
-**专业版为付费插件, 如有需要请联系qq 382146139**
+**专业版为付费插件, 如有需要请联系qq 382146139**<br/>
+**专业版为付费插件, 如有需要请联系qq 382146139**<br/>
+**专业版为付费插件, 如有需要请联系qq 382146139**<br/>
 
 # Fluttify系列插件
 |  名称  | 描述 | 仓库 |
@@ -81,7 +79,7 @@ import 'package:tencent_live_fluttify/tencent_live_fluttify.dart';
 ```
 
 ## 使用
-参考[wiki](https://github.com/fluttify-project/tencent_live_fluttify/wiki).
+参考[wiki](https://github.com/fluttify-project/tencent_live_fluttify/wiki).参考[wiki](https://github.com/fluttify-project/tencent_live_fluttify/wiki).参考[wiki](https://github.com/fluttify-project/tencent_live_fluttify/wiki).
 
 ## 社区
 | QQ群 |
